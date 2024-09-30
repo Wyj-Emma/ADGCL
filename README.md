@@ -1,5 +1,4 @@
 # Adaptive Double Graph Contrastive Learning for Recommendation
-Yujie Wang, Zhe Yang
 ## Environment
 
 - python=3.8
