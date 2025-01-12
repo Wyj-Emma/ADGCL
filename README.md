@@ -1,4 +1,4 @@
-# Adaptive Double Graph Contrastive Learning for Recommendation
+# Adaptive Dual Graph Contrastive Learning for Recommendation
 ## Environment
 
 - python=3.8
